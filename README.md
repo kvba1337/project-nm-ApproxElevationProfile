@@ -23,7 +23,7 @@ Zweryfikuj przydatność obu metod do tego zagadnienia.
 
 **Dane**
 
-Do weryfikacji obu metod proszę użyć danych rzeczywistych, a do obliczeń pewnego ich podzbioru. Można je pobrać na przykład z serwisu geo[context.org lub ](geocontext.org)bezpośrednio z [Google Maps API ](https://developers.google.com/maps/documentation/javascript/elevation?hl=pl)albo innych serwisów oferujących dane geograficzne.
+Do weryfikacji obu metod proszę użyć danych rzeczywistych, a do obliczeń pewnego ich podzbioru. Można je pobrać na przykład z serwisu [geocontext.org](geocontext.org) lub bezpośrednio z [Google Maps API ](https://developers.google.com/maps/documentation/javascript/elevation?hl=pl)albo innych serwisów oferujących dane geograficzne.
 
 Tras wybranych do testów powinno być kilka (nie więcej niż 5) i powinny one mieć zróżnicowany charakter, na przykład: trasa prawie płaska bez różnic wysokości, trasa o jednym wyraźnym wzniesieniu, trasa o wielu stromych wzniesieniach itp.
 
@@ -51,7 +51,7 @@ Punktacja za sprawozdanie z projektu 3:
 1. analiza dodatkowa interpolacji: 1,6 punktu,
 1. podsumowanie zawierające wnioski z przeprowadzonej analizy: jeden punkt.
 
-Analiza podstawowa oznacza zbadanie wpływu liczby węzłów na interpolację. Ana- liza dodatkowa powinna przedstawić wpływ innych parametrów niż liczba węzłów na interpolację. Każda analiza podstawowa oraz analiza dodatkowa powinny zawierać co najmniej **cztery wykresy**. Każdy z tych wykresów powinien przedstawiać:
+Analiza podstawowa oznacza zbadanie wpływu liczby węzłów na interpolację. Analiza dodatkowa powinna przedstawić wpływ innych parametrów niż liczba węzłów na interpolację. Każda analiza podstawowa oraz analiza dodatkowa powinny zawierać co najmniej **cztery wykresy**. Każdy z tych wykresów powinien przedstawiać:
 
 - dane oryginalne,
 - wartość danych w węzłach interpolacji,
@@ -61,4 +61,4 @@ Wykresy powinny posiadać legendę, opis osi oraz tytuł informujący m.in. o ro
 
 Pojedyncza analiza interpolacji polega na przedstawieniu odpowiednich wykresów oraz ich pisemnej interpretacji.
 
-Podsumowując, minimalna liczba wykresów, które powinno zawierać sprawozdanie ocenione na 10 punktów, wynosi **20**. Każdy wykres mniej oznacza 0,4 punktu mniej za sprawozdanie. Liczba wykresów może być większa, jeśli autorka/autor sprawozdania uzna to za zasadne. Oczywiście, dla tego projektu mają zastosowanie również informacje przedstawione w pliku [Zasady zaliczenia projektu.](https://enauczanie.pg.edu.pl/moodle/mod/resource/view.php?id=1883994)
+Podsumowując, minimalna liczba wykresów, które powinno zawierać sprawozdanie ocenione na 10 punktów, wynosi **20**. Każdy wykres mniej oznacza 0,4 punktu mniej za sprawozdanie. Liczba wykresów może być większa, jeśli autorka/autor sprawozdania uzna to za zasadne. Oczywiście, dla tego projektu mają zastosowanie również informacje przedstawione w pliku.
